@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/topher247/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/topher247/static/js/main.3607116b.chunk.js",
+    "main.js.map": "/topher247/static/js/main.3607116b.chunk.js.map",
+    "runtime-main.js": "/topher247/static/js/runtime-main.d65ccf57.js",
+    "runtime-main.js.map": "/topher247/static/js/runtime-main.d65ccf57.js.map",
+    "static/css/2.ef4c84fa.chunk.css": "/topher247/static/css/2.ef4c84fa.chunk.css",
+    "static/js/2.57d333bc.chunk.js": "/topher247/static/js/2.57d333bc.chunk.js",
+    "static/js/2.57d333bc.chunk.js.map": "/topher247/static/js/2.57d333bc.chunk.js.map",
+    "index.html": "/topher247/index.html",
+    "precache-manifest.db26f525b9cd80c6e70282f2de791d16.js": "/topher247/precache-manifest.db26f525b9cd80c6e70282f2de791d16.js",
+    "service-worker.js": "/topher247/service-worker.js",
+    "static/css/2.ef4c84fa.chunk.css.map": "/topher247/static/css/2.ef4c84fa.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/topher247/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.57d333bc.chunk.js.LICENSE.txt": "/topher247/static/js/2.57d333bc.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/topher247/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/topher247/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/topher247/static/media/primeicons.b0f5d02f.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d65ccf57.js",
+    "static/css/2.ef4c84fa.chunk.css",
+    "static/js/2.57d333bc.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3607116b.chunk.js"
+  ]
+}
